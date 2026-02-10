@@ -78,6 +78,44 @@
 - Display the next date
 - Stop
 
+✅ Algorithm 7 – Gross Salary Calculation
+- Start
+- Read basic salary
+- If basic ≤ 10000, set HRA = 20% and DA = 0
+- Else if basic ≤ 20000, set HRA = 25% and DA = 90%
+- Else, set HRA = 30% and DA = 95%
+- Calculate Gross = Basic + HRA + DA
+- Display Gross Salary
+- Stop
+
+✅ Algorithm 8 – Income Tax Calculation
+- Start
+- Read annual income
+- If income ≤ 2,50,000, tax = 0
+- Else if income ≤ 5,00,000, tax = 5% of excess income
+- Else if income ≤ 10,00,000, calculate tax using 5% and 20% slabs
+- Else, calculate tax using 5%, 20% and 30% slabs
+- Display tax amount
+- Stop
+
+✅ Algorithm 9 – Vowel or Consonant Check
+- Start
+- Read a character
+- If character is a vowel, display “Vowel”
+- Else, display “Consonant”
+- Stop
+
+✅ Algorithm 10 – Date Increment Program
+- Start
+- Read date in dd/mm/yyyy format
+- Separate day, month, and year
+- Find maximum days of the given month
+- If date is invalid, stop
+- If day is last day of month, reset day and increase month/year
+- Else, increment day by 1
+- Display next date
+- Stop
+
 **✅ CONCLUSION**
 These programs illustrate the effective use of conditional statements in Python for solving real-life problems.
 They help in understanding decision-making logic, comparisons, and control flow.
