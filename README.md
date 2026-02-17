@@ -3,21 +3,13 @@
 
 **THEORY**
 - Conditional statements in Python are used to make decisions based on conditions.
-  
 - The if, elif, and else statements control the flow of execution of a program.
-
 - Relational operators (>, <, ==, >=, <=) are used to compare values.
-
 - Logical operators (and, or, not) help in checking multiple conditions at the same time.
-
 - The modulo operator (%) is used to determine even or odd numbers.
-
 - Conditional statements are useful in grading systems, number classification, and validations.
-
 - Leap year checking uses mathematical conditions to handle calendar rules correctly.
-
 - Date increment logic helps in understanding real-world date handling.
-
 - These concepts improve logical thinking and problem-solving skills in programming
 
 **ALGORITHMS**
